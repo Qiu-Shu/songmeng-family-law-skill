@@ -1,0 +1,46 @@
+{
+  "title": "宋萌律师·婚姻家事办案助手",
+  "packaged_at": "2026-10-13",
+  "timezone": "Asia/Shanghai",
+  "source_plugin": "gpt-19867b274b0a3efe4bf1303ebdd39559",
+  "source_version": "0.1.1+bundle.06484e06e81cb24090660e656185662c",
+  "packaging": "Original plugin files preserved byte-for-byte; documentation and checksums added.",
+  "source_file_count": 7,
+  "source_files": [
+    {
+      "path": ".codex-plugin/plugin.json",
+      "bytes": 1479,
+      "sha256": "986395333ed7a91815779f207cb198ea5d7c0c4be279f656692d451cbc0b80aa"
+    },
+    {
+      "path": "skills/instructions/agents/openai.yaml",
+      "bytes": 371,
+      "sha256": "ae27e6fad532b8ea568b562b0e10152cd84a8d46e12f55e2519b6d09fe1d179b"
+    },
+    {
+      "path": "skills/instructions/lookup/knowledge-index.json",
+      "bytes": 461,
+      "sha256": "1c82c37652634c35683c2545a4f7cd5066e03f4dc45ad1eba16c2815f12573d6"
+    },
+    {
+      "path": "skills/instructions/references/02_知识库_办案流程与核验规则.txt",
+      "bytes": 25627,
+      "sha256": "f2fcd330f065cfacc3a66363933e257ffb05e0ee5b45f08f0e5fcd7264444722"
+    },
+    {
+      "path": "skills/instructions/references/03_知识库_官方来源与历史正文.txt",
+      "bytes": 1115727,
+      "sha256": "4c5a493a566e894eeeaa613be25745973b4152c129cfde1500294b73c2e5b992"
+    },
+    {
+      "path": "skills/instructions/references/04_知识库_工作底表与登记附件.txt",
+      "bytes": 64472,
+      "sha256": "deeafb41dd0a965cb6e4737f2389ef1a04bc276f99aa59b3b128921467591481"
+    },
+    {
+      "path": "skills/instructions/SKILL.md",
+      "bytes": 8721,
+      "sha256": "7f8b5a211a67b79c1d64fb17823973e73084892c94841531d226991568c7247f"
+    }
+  ]
+}
